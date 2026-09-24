@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "t2.md",
+                "file": "T1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "t2.md",
+                "file": "T1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -215,7 +215,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4f7779fbb230950e",
+  "active": "0a28d8be593dfe3c",
   "lastOpenFiles": [
     "t2.md",
     "test.md",
