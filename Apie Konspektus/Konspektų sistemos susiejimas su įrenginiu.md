@@ -12,6 +12,8 @@ Atidaromas "Community plugins skyrius", bei būtina paspausti "Exit Restricted m
 Spaudžiamas mygtukas "Browse" bei paieškoje įvedama git. Suradus reikia suinstaliuoti papildinį Git bei jį įjungti
 
 #### Susiejimas su talpykla
-Įvykdžius visus etapus galima su talpykla susieti programą. Spaudžiami klaviatūros mygtukai `Ctrl+P` arba `>_` mygtukas esantis programos šone
+Įvykdžius visus etapus galima su talpykla susieti programą. Spaudžiami klaviatūros mygtukai `Ctrl+P` arba `>_` mygtukas esantis programos šone. Į paieškos langą įvedamas "clone" ir paspaudžiama komanda `Git: Clone an existing remote repo`.
+Duodamos instrukcijos `Enter remote URL`, šiame etape įvedamas saitas `https://github.com/RobertasSkirka/KTUKONSPEKTAI.git` bei spaudžiamas mygtukas `Enter`.
+Kitame etape yra įvedamas koks nors pavadinimas aplankui kuris turės konspektus, toliau paprašius `Specify depth of clone` spaudžiama `Enter`. Įvykdžius instrukcijas konspektai atsiras įvardintame aplanke.
 
 # Telefonams
