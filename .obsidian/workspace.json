@@ -134,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matematika/Matricos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -177,7 +176,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matematika/Matricos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -215,7 +213,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "89cb9c694abbf0df",
+  "active": "74da1faaa0af6d82",
   "lastOpenFiles": [
     "Matematika/Matricos.md",
     "Matematika",
