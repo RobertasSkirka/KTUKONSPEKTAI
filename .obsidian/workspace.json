@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Konspektų kategorijų saitai.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Konspektų kategorijų saitai"
+              "title": "README"
             }
           }
         ],
@@ -228,8 +228,8 @@
   },
   "active": "c90f1aae2c268c32",
   "lastOpenFiles": [
-    "Apie Konspektus/Konspektų sistemos susiejimas su įrenginiu.md",
     "Konspektų kategorijų saitai.md",
+    "Apie Konspektus/Konspektų sistemos susiejimas su įrenginiu.md",
     "Apie Konspektus/Darbo Temos.md",
     "Fizika/Fizikos Temos.md",
     "README.md",
