@@ -1,2 +1,2 @@
-Bendri konspektai skirti KTU MD-6/7 grupei
+Bendri konspektai skirti KTU MD-6/7 grupei.
 Informaciją apie jų susiejimą su programa obsidian galima rasti faile [Konspektų sistemos susiejimas su įrenginiu](/Apie%20Konspektus/Konspektų%20sistemos%20susiejimas%20su%20įrenginiu.md).
